@@ -6,16 +6,16 @@
   "author": "Sergii Kozak <svkozak@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/svkozak/pi-acp.git"
+    "url": "https://github.com/toymoa/pi-acp-plus.git"
   },
   "publishConfig": {
     "access": "public",
     "provenance": true
   },
   "bugs": {
-    "url": "https://github.com/svkozak/pi-acp/issues"
+    "url": "https://github.com/toymoa/pi-acp-plus/issues"
   },
-  "homepage": "https://github.com/svkozak/pi-acp#readme",
+  "homepage": "https://github.com/toymoa/pi-acp-plus#readme",
   "keywords": [
     "acp",
     "agent-client-protocol",
